@@ -23,6 +23,7 @@ Through this project, I focused on:
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
 3. Use the slicers to explore the data interactively.
+4. The images 1 and 2 are depicting Mexico data exclusively and the images 3 and 4 are depicting countries data collectively.
 
 ## Notes
 - **Page 1**: Overview with KPIs and trend charts.  
