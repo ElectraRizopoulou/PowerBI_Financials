@@ -23,8 +23,14 @@ Through this project, I focused on:
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
 3. Use the slicers to explore the data interactively.
-4. The images below are depicting Mexico data exclusively ![Page 1 Overview Mexico](Images/1.png)
-  ![Page 2 Map Mexico](Images/2.png) and the images below are depicting countries data collectively.![Page 1 Overview Countries](Images/3.png)  ![Page 2 Map Countries](Images/4.png) 
+4. The images below are depicting Mexico data exclusively
+5. 
+6. ![Page 1 Overview Mexico](Images/1.png)
+  ![Page 2 Map Mexico](Images/2.png)
+
+and the images below are depicting countries data collectively
+
+.![Page 1 Overview Countries](Images/3.png)  ![Page 2 Map Countries](Images/4.png) 
 ## Notes
 - **Page 1**: Overview with KPIs and trend charts.  
 - **Page 2**: Full-page map for geographic sales view.  
