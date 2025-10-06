@@ -49,10 +49,10 @@ Through this project, I focused on:
 Sample tickets demonstrating bug tracking and test documentation.
 
 **Ticket Examples:**  
-![Tickets](images/jira_bug.png)
+![Tickets](Jira/Tickets.png)    
 
 **Description for Sales KPI card:**  
-![Jira Bug Description](images/jira_bug.png)
+![Jira Bug Description](Jira/Description.png)
 
 ---
 
