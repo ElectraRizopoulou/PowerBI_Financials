@@ -45,6 +45,15 @@ Through this project, I focused on:
 - Familiarity with Excel data sources  
 - Understanding of SDLC and QA practices  
 
+## QA Example (Jira)
+Sample tickets demonstrating bug tracking and test documentation.
+
+**Ticket Examples:**  
+![Tickets](images/jira_bug.png)
+
+**Description for Sales KPI card:**  
+![Jira Bug Description](images/jira_bug.png)
+
 ---
 
 Built this project to strengthen my Power BI skills and demonstrate an analytical and testing-focused approach.
