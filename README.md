@@ -26,11 +26,13 @@ Through this project, I focused on:
 4. The images below are depicting Mexico data exclusively
  
  ![Page 1 Overview Mexico](Images/1.png)
+ 
  ![Page 2 Map Mexico](Images/2.png)
 
- and the images below are depicting countries data collectively
+ and the images below are depicting countries data collectively.
 
-.![Page 1 Overview Countries](Images/3.png)  ![Page 2 Map Countries](Images/4.png)
+![Page 1 Overview Countries](Images/3.png) 
+![Page 2 Map Countries](Images/4.png)
 
 ## Notes
 - **Page 1**: Overview with KPIs and trend charts.  
