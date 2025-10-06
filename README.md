@@ -56,4 +56,4 @@ Sample tickets demonstrating bug tracking and test documentation.
 
 ---
 
-Built this project to strengthen my Power BI skills and demonstrate an analytical and testing-focused approach.
+Built this project to strengthen my Power BI skills and demonstrate an analytical and testing-focused approach.Moreover, created sample tickets for bug tracking and test documentation.
