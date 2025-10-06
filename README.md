@@ -32,6 +32,7 @@ Through this project, I focused on:
  and the images below are depicting countries data collectively.
 
 ![Page 1 Overview Countries](Images/3.png) 
+
 ![Page 2 Map Countries](Images/4.png)
 
 ## Notes
@@ -49,9 +50,11 @@ Through this project, I focused on:
 Sample tickets demonstrating bug tracking and test documentation.
 
 **Ticket Examples:**  
+
 ![Tickets](Jira/Tickets.png)    
 
-**Description for Sales KPI card:**  
+**Description for Sales KPI card:** 
+
 ![Jira Bug Description](Jira/Description.png)
 
 ---
